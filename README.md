@@ -1,4 +1,4 @@
-# Data-Cleaning-in-MySQL
+# MySQL-DataCleaning-EDA
 **Layoff Data Cleaning & Exploratory Analysis Project in MySQL** 🧹📊
 **This project focuses on cleaning and analyzing layoff data using MySQL. It comprises two main phases: data cleaning and exploratory data analysis (EDA)**.
 
