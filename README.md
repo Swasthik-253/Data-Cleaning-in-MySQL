@@ -1,8 +1,8 @@
 # Data-Cleaning-in-MySQL
-**Layoff Data Cleaning & Exploratory Analysis Project in MySQL 🧹📊
-This project focuses on cleaning and analyzing layoff data using MySQL. It comprises two main phases: data cleaning and exploratory data analysis (EDA).
-**
-**Data Cleaning Steps:  **
+**Layoff Data Cleaning & Exploratory Analysis Project in MySQL** 🧹📊
+**This project focuses on cleaning and analyzing layoff data using MySQL. It comprises two main phases: data cleaning and exploratory data analysis (EDA)**.
+
+**Data Cleaning Steps**:
 
 Removing Duplicates: Identified and removed duplicate entries to maintain data accuracy.
 
@@ -12,8 +12,8 @@ Handling Null Values: Addressed missing values by filling in relevant fields and
 
 Dropping Unnecessary Columns: Optimized the dataset by removing columns that were not needed for analysis.
 
-**Exploratory Data Analysis:
-**
+**Exploratory Data Analysis**:
+
 Analyzed key metrics, such as the total layoffs by company, industry, and country.
 
 Conducted time-series analysis to observe layoffs trends over months and years.
